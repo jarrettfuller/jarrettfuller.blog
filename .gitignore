@@ -1,0 +1,6 @@
+_site/
+.sass-cache/
+
+# Exclude any PSD/AI source
+#*.psd
+#*.ai
