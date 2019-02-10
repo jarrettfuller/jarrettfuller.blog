@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+    <div class="intro"><p>{{ page.tag }}</p></div>
+
+    {% for post in site.categories[page.tag] %}
+                <a href="{{ site.baseurl }}{{ post.url }}">
+        <div class="blog-list">
+            <div class="date">{{ post.date | date: "%m/%d/%Y" }}</div>
+            <div class="post-title">
+            <h2>{{ post.title }}</h2>
+            <p>{{ post.description }}</p>
+            </div>
+            {% if post.hero %}
+            <img src="{{post.hero}}">
+             {% endif %}
+                    </div></a>
+    {% endfor %}
+
+ <!--nav-->
+        <div class="index-footer">
+            <div class="info"><p>Notes from the studio about design, <a href="/category/photography">photography</a>, <a href="/category/books">books</a>, and <a href="/category/culture">culture</a> by <a href="http://www.jarrettfuller.com/about">Jarrett Fuller</a>. <a href="/feed.xml">RSS feed</a>.</p></div>
+            <div class="categories">
+<ul>
+  {% for category in site.category %}
+    <li>
+      <a href="{{ category.url }}">{{ category.tag }}</a>
+    </li>
+  {% endfor %}
+</ul></div>
+        </div>
