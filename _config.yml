@@ -14,6 +14,9 @@ avatar:
 #
 # Flags below are optional
 #
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
 
 # Includes an icon in the footer for each username you enter
 footer-links:

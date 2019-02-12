@@ -104,10 +104,10 @@ nav li:first-child {
 .intro p {
     font-size: 48px;
 }
-.intro p a {
+.intro a {
     border-bottom: 2px solid grey;
 }
-.intro p a:hover {
+.intro a:hover {
     border-bottom: 2px #ff0000 solid;
 }
 .index-footer {
@@ -135,13 +135,14 @@ nav li:first-child {
     font-size: .6em;
     vertical-align: middle;
     border: 1px solid rgba(0,0,0,.5);
-        border-bottom: 0px;
     padding: 2px;
-    padding-left: 5px;
-    padding-right: 5px;
+    border-radius: 8px;
+    padding-left: 6px;
+    padding-right: 6px;
 }
-.rss a {
-    border-bottom: 0px;
+.intro p .rss a {
+    border: -1px solid rgba(0,0,0,.5);
+    padding: 2px;
 }
 /*----------- BLOG LIST --------------*/
 .object {
@@ -219,9 +220,9 @@ font-family: 'Merriweather', Georgia, Times, serif;
 }
 article {
   font-family: 'Merriweather', Georgia, Times, serif;
-  font-size: 20px;
-  line-height: 1.9em;
-      width: 65%;
+  font-size: 18px;
+  line-height: 1.7em;
+      width: 70%;
 }
 h2 {
   font-family: 'Karla', Helvetica, Arial, sans-serif;
