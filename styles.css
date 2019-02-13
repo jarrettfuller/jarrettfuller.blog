@@ -410,10 +410,36 @@ footer {
 TABLET
 ----------------------------------- */
 @media screen and (min-width: 716px) and (max-width: 1024px) {
-  /* PROJECTS */
-  .essay {
-    width: 75%;
-  }
+ /* HOMEPAGE */
+.intro {
+      padding: 15px 50px 75px 50px;
+}
+.intro p {
+    font-size: 36px;
+}
+.blog-list {
+  padding: 0px 50px 25px 50px;
+    display: block;
+    clear: both;
+}
+.blog-list img {
+    width: 50%;
+    height:50%;
+    float: right;
+    padding-bottom: 40px;
+}
+.blog-list .post-title {
+        width: 50%;
+        float: left;
+    padding-right: 25px;
+}
+ /* HOMEPAGE */
+.post {
+    width: 100%;
+}
+    article {
+        width: 100%;
+    }
   figure {
     width: 100%;
   }
@@ -423,17 +449,6 @@ TABLET
   figcaption {
     width: 100%;
     padding-bottom: 20px;
-  }
-  /* PROFILE */
-  .profile_section {
-    width: 100%;
-    flex-direction: column;
-  }
-  .profile_section h4 {
-    width: 100%;
-  }
-  .text article {
-    width: 100%;
   }
 }
 /* MOBILE
@@ -528,6 +543,12 @@ TABLET
     article {
         width: 100%;
     }
+.hero-caption {
+    padding-left: 0%;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
   figure {
     width: 100%;
   }
@@ -542,9 +563,16 @@ TABLET
   .year {
     display: none;
   }
-  .img-circle {
-    border-radius: 0%;
-  }
+    .index-footer .info {
+    width: 75%;
+    padding-right: 25px;
+}
+.index-footer .categories {
+    width: 25%;
+    padding-right: 50px;
+    padding-top: 0px;
+    column-count: 1;
+}
   footer {
     flex-direction: column;
     padding-left: 25px;
