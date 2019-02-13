@@ -410,14 +410,6 @@ footer {
 TABLET
 ----------------------------------- */
 @media screen and (min-width: 716px) and (max-width: 1024px) {
-  /* HOMEPAGE */
-  .intro {
-    font-size: 60px;
-    height: auto;
-  }
-  .intro a {
-    font-size: 60px;
-  }
   /* PROJECTS */
   .essay {
     width: 75%;
@@ -465,25 +457,34 @@ TABLET
     padding-left: 0px;
     margin-left: 0px;
   }
+      /* HOMEPAGE */
+.intro {
+      padding: 15px 25px 75px 25px;
+}
+.intro p {
+    font-size: 36px;
+}
+.blog-list {
+  padding: 0px 25px 25px 25px;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+    flex-direction: column;
+}
+.blog-list img {
+    width: 100%;
+    height:100%;
+    -webkit-filter: grayscale(0); /* Safari 6.0 - 9.0 */
+    filter: grayscale(0%);
+    opacity: 1;
+}
+.blog-list .post-title {
+    width: 100%;
+}
   /*PROJECTS */
   .object {
     flex-direction: column;
     padding-left: 25px;
-  }
-  .type {
-    font-style: italic;
-  }
-  .text {
-    flex-direction: column;
-    padding-left: 25px;
-  }
-  .project {
-    width: auto;
-    margin-right: 0px;
-    padding-right: 0px;
-  }
-  .essay {
-    width: 100%;
   }
   .images {
     padding-left: 0px;
@@ -521,17 +522,12 @@ TABLET
         padding-right: 0px;
     }
   /* WRITING */
-  article {
-    font-size: 18px;
-  }
-    article a {
-        font-size: 18px;
+.post {
+    width: 100%;
+}
+    article {
+        width: 100%;
     }
-  article blockquote {
-    border-left: none;
-    padding-left: 1em;
-    margin: 0px;
-  }
   figure {
     width: 100%;
   }
