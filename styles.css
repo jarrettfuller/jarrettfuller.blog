@@ -110,17 +110,26 @@ nav li:first-child {
 .intro a:hover {
     border-bottom: 2px #ff0000 solid;
 }
+.intro a:last-child {
+    border-bottom: 1px solid rgba(0,0,0,.5);
+}
 .index-footer {
     display: flex;
     width: auto;
       width: 100%;
-  max-width: 1800px;
+/*  max-width: 1800px;*/
           padding: 15px 50px 50px 50px;
         border-top: 1px #ff0000 solid;
 }
 .index-footer .info {
     width: 25%;
     padding-right: 50px;
+}
+.index-footer .info a {
+    border-bottom: 2px solid rgba(0,0,0,.3);
+}
+.index-footer .info a:hover {
+    border-bottom: 2px solid rgba(0,0,0,1);
 }
 .index-footer .categories {
     width: 75%;
@@ -140,8 +149,11 @@ nav li:first-child {
     padding-left: 6px;
     padding-right: 6px;
 }
+.rss:hover {
+    background-color: rgba(0,0,0,.2);
+    color: white;
+}
 .intro p .rss a {
-    border: -1px solid rgba(0,0,0,.5);
     padding: 2px;
 }
 /*----------- BLOG LIST --------------*/
@@ -281,9 +293,9 @@ article hr {
   margin-top: 25px;
   color: rgba(0, 0, 0, 0.5);
 }
-.notes a {
+.footnotes a {
   font-family: 'Karla', Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   color: #000000;
   border-bottom: 1px #ff0000 solid;
   color: rgba(0, 0, 0, 0.5);
@@ -433,6 +445,19 @@ TABLET
         float: left;
     padding-right: 25px;
 }
+.index-footer {
+    display: block;
+    width: auto;
+}
+.index-footer .info {
+    width: 100%;
+    padding-right: 0px;
+}
+    .index-footer .categories {
+        column-count: 3;
+        width: 100%;
+        padding-top: 25px;
+    }
  /* HOMEPAGE */
 .post {
     width: 100%;
@@ -474,10 +499,11 @@ TABLET
   }
       /* HOMEPAGE */
 .intro {
-      padding: 15px 25px 75px 25px;
+      padding: 15px 25px 55px 25px;
 }
 .intro p {
-    font-size: 36px;
+    font-size: 28px;
+    line-height: 36px;
 }
 .blog-list {
   padding: 0px 25px 25px 25px;
@@ -498,8 +524,38 @@ TABLET
 }
   /*PROJECTS */
   .object {
-    flex-direction: column;
+      flex-direction: column-reverse;
     padding-left: 25px;
+      padding-right: 25px;
+    }
+.post {
+    width: 100%;
+}
+article {
+        width: 100%;
+    padding-bottom: 25px;
+          border-bottom: 2px rgba(0,0,0,.3) solid;
+    margin-bottom: 25px;
+    }
+h2 {
+        font-size: 36px;
+    margin-bottom: 25px;
+    }
+.hero-caption {
+    padding-left: 0px;
+    width: 100%;
+    margin: auto;
+}
+  figure {
+    width: 100%;
+  }
+figure img {
+    padding-bottom: 0px;
+  }
+figcaption {
+    width: 100%;
+    float: none;
+    padding-bottom: 10px;
   }
   .images {
     padding-left: 0px;
@@ -536,42 +592,50 @@ TABLET
         padding-left: 0px;
         padding-right: 0px;
     }
-  /* WRITING */
-.post {
-    width: 100%;
-}
-    article {
-        width: 100%;
+.footnotes {
+        margin-left: 25px;
     }
-.hero-caption {
-    padding-left: 0%;
-    width: 100%;
-    margin: auto;
-    text-align: center;
+.date {
+  width: 55%;
+    padding-top: 15px;
+    float: left;
 }
-  figure {
-    width: 100%;
-  }
-  figure img {
-    padding-bottom: 0px;
-  }
-  figcaption {
+.categories {
+    padding-top: 0px;
+    width: 50%;
+    float: right;
+}
+.pagination {
+      padding: 20px 25px 25px 25px;
+}
+.pagination .prev {
+    float: right;
+    max-width: 50%;
+    text-align: right;
+    padding-bottom: 25px;
+}
+.pagination .next {
+    float: left;
+    max-width: 50%;
+    padding-bottom: 25px;
+}
+.pagination a:hover {
+    border-bottom: 0px;
+}
+/* FOOTER */
+.index-footer {
+    display: block;
+    padding: 20px 25px 25px 25px;
+    }
+.index-footer .info {
     width: 100%;
     float: none;
-    padding-bottom: 10px;
-  }
-  .year {
-    display: none;
-  }
-    .index-footer .info {
-    width: 75%;
-    padding-right: 25px;
+    padding-right: 0px;
 }
 .index-footer .categories {
-    width: 25%;
-    padding-right: 50px;
-    padding-top: 0px;
-    column-count: 1;
+    width: 100%;
+    padding-top: 25px;
+    column-count: 2;
 }
   footer {
     flex-direction: column;
