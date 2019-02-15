@@ -1,74 +1,12 @@
 ---
 layout: default
 ---
-<head>
-     <title>Blog—Jarrett Fuller</title>
-<!--
-    <style type="text/css">
-.
-.blog-tags-list {
-        padding-bottom: 10px;
-        margin: auto;
-        padding: 15px 15px 15px 0px;
-        width: 100%;
-        width: auto;
-        text-align: center;
-        }
-.blog-tags-list a:hover {
-            color: #ff0000;
-        }
-.blog-tag-item {
-        float: left;
-    padding: 10px;
-    border: 1px black solid;
-    margin-left: 5px;
-    margin-right: 5px;
-        }
-        .blog-tag-item:first-child {
-            margin-left: 0px;
-        }
-.blog-tag-item:hover {
-    border-color: #ff0000;
-        }
-.blog-tag-item a:hover {
-    text-decoration: none;
-      border-bottom: 0px solid red;
-    color: #ff0000;
-        }
-@media only screen and (max-width: 1024px) {
-    .blog-tag-item {
-        padding: 7px;
-        margin-top: 5px;
-        margin-bottom: 5px;
-    }
-    .blog-tags-list {
-        padding-left: 25px;
-        margin-left: 0px;
-    }
-        }
-        </style>
--->
-</head>
 <body>
 
 <div id="container">
     <div class="intro">
         <p>Notes from the studio about <a href="/category/design">design</a>, <a href="/category/photography">photography</a>, <a href="/category/books">books</a>, and <a href="/category/culture">culture</a> by <a href="http://www.jarrettfuller.com/about">Jarrett Fuller</a>. <a href="/feed.xml" class="rss">RSS feed</a></p>
 
-
-<!--
-        <ul class="blog-tags-list clearfix">
-          <a href onclick="filter('all'); return false;"><li class="blog-tag-item">All</li></a>
-        {% assign sorted_tags = site.tags | sort %}
-        {% for tag in sorted_tags %}
-          {% assign t = tag | first %}
-          {% assign posts = tag | last %}
-          <a href onclick="filter('{{ t }}'); return false;"><li class="blog-tag-item" id="{{ t }}-item">
-            {{ t }}
-          </li></a>
-        {% endfor %}
-      </ul>
--->
 </div>
 
     <main class="preview">
@@ -135,18 +73,7 @@ layout: default
         </div>
         {% endif %}
 
-                <!--nav-->
-        <div class="index-footer">
-            <div class="info"><p>Notes from the studio about design, <a href="/category/photography">photography</a>, <a href="/category/books">books</a>, and <a href="/category/culture">culture</a> by <a href="http://www.jarrettfuller.com/about">Jarrett Fuller</a>. <a href="/feed.xml">RSS feed</a>.</p></div>
-            <div class="categories">
-<ul>
-  {% for category in site.category %}
-    <li>
-      <a href="{{ category.url }}">{{ category.tag }}</a>
-    </li>
-  {% endfor %}
-</ul></div>
-        </div>
+{% include index-footer.html %}
 
 
 <script>
