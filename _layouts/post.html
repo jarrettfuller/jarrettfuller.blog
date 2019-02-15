@@ -48,17 +48,6 @@ layout: default
 <section class="clear"></section>
 
 
-<div class="index-footer">
-            <div class="info"><p>Jarrett Fuller is a designer, writer, educator, and podcaster. <a href="/feed.xml">RSS feed</a>.</p></div>
-            <div class="categories">
-<ul>
-  {% for category in site.category %}
-    <li>
-      <a href="{{ category.url }}">{{ category.tag }}</a>
-    </li>
-  {% endfor %}
-</ul></div>
-    <section class="clear"></section>
-        </div>
+{% include index-footer.html %}
 
 
