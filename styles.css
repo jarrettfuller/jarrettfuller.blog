@@ -587,8 +587,8 @@ figcaption {
     padding-top: 5px;
     margin-bottom: 5px;
   }
-.images-left p,
-    .images-right p {
+.images-left,
+.images-right  {
         padding-left: 0px;
         padding-right: 0px;
     }
@@ -607,6 +607,7 @@ figcaption {
 }
 .pagination {
       padding: 20px 25px 25px 25px;
+    margin-bottom: 15px;
 }
 .pagination .prev {
     float: right;

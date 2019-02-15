@@ -18,15 +18,6 @@ layout: default
                     </div></a>
     {% endfor %}
 
- <!--nav-->
-        <div class="index-footer">
-            <div class="info"><p>Notes from the studio about design, <a href="/category/photography">photography</a>, <a href="/category/books">books</a>, and <a href="/category/culture">culture</a> by <a href="http://www.jarrettfuller.com/about">Jarrett Fuller</a>. <a href="/feed.xml">RSS feed</a>.</p></div>
-            <div class="categories">
-<ul>
-  {% for category in site.category %}
-    <li>
-      <a href="{{ category.url }}">{{ category.tag }}</a>
-    </li>
-  {% endfor %}
-</ul></div>
-        </div>
+    <section class="clear"></section>
+
+{% include index-footer.html %}
