@@ -21,7 +21,10 @@
                 {% if post.author.name %}
                     <dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
                 {% endif %}
-                    <description>{{ post.content | xml_escape }}</description>
+                    <description>
+                        <media:content medium="image" url="{{post.hero}}" />
+
+                        {{ post.content | xml_escape }}</description>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}</link>
                 <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
