@@ -23,7 +23,7 @@
                     <dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
                 {% endif %}
                     <description>
-                        <media:content url="{{post.hero}" medium="image">
+                        <media:content url="{{post.hero}}" medium="image">
 </media:content>
 
                         {{ post.content | xml_escape }}</description>
