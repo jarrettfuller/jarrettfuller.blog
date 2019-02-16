@@ -5,7 +5,7 @@
     xmlns:atom="http://www.w3.org/2005/Atom"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-    xmlns:media="search.yahoo.com/mrss/"
+    xmlns:media="http://search.yahoo.com/mrss/"
 >
     <channel>
         <title>{{ site.name | xml_escape }}</title>
@@ -23,7 +23,8 @@
                     <dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
                 {% endif %}
                     <description>
-                        <media:content medium="image" url="{{post.hero}}" />
+                        <media:content url="{{post.hero}" medium="image">
+</media:content>
 
                         {{ post.content | xml_escape }}</description>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
