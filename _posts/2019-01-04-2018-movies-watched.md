@@ -4,7 +4,6 @@ title: 2018 Movies Watched
 description: "A complete list of every movie I watched over the last twelve months."
 categories:
 - Culture
-date: January 07,.2019
 ---
 
 *	1/5/2018	 Harry Potter and the Sorcerers Stone

@@ -39,7 +39,9 @@ As the media landscape changed, so too did Design Observer; the term blog doesn�
 
 * * *
 <figure>
+    <div class="responsive-container">
     <iframe src="https://player.vimeo.com/video/299675800?title=0&amp;byline=0&amp;portrait=0" frameborder="0" allowfullscreen> </iframe>
+    </div>
 </figure>
 
 My interest in graphic design has always run parallel with interests in writing and criticism. My earliest introduction to the field was watching designers write about their work and the work of others on their blogs. As a high student, I understood that part of being a designer was being someone who made work but also thought deeply about that work and its implications in the world. It was only after I was in graduate school studying design criticism — more than ten years after I started reading blogs — that I realized how profound the impact of these blogs had on my own understanding of design. Before studying design in school, before working as a designer, before returning to school, and before I became a teacher myself, there was Design Observer. Along with a handful of other blogs, this was my earliest design education. When I started Scratching the Surface, my podcast about design criticism, some of the first people I reached out to were the people I had been reading on Design Observer for the last fifteen years. The podcast, I guess, is an attempt to recreate that community I saw as a high school student.

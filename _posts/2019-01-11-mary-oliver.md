@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Journey by Mary Oliver
-date: January 30,.2019
 category: Photography
 hero: '/images/DSCF4565.jpg'
 herocap: 'Irvine, California. December 2018 © Jarrett Fuller'
