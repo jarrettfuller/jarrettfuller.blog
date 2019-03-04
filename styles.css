@@ -275,6 +275,11 @@ article hr {
   max-width: 40%;
   border: 0.5px solid rgba(0, 0, 0, 0.2);
 }
+article ol {
+    list-style-position: outside;
+    padding-left: 35px;
+    padding-bottom: 15px;
+}
 .footnote {
   font-family: 'Karla', Helvetica, Arial, sans-serif;
   color: rgba(0, 0, 0, 0.6);
