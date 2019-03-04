@@ -35,7 +35,8 @@ Here's the tracklisting:
 
 * * *
 
-I've been playlists for as long as I can remember — back when we called them *mixtapes* and we recorded them on cassette — but I really got into it fifteen years ago or so when we got our first computer with a CD burner and I'd compile my favorite songs and share them with friends. My playlist making only go more obsessive when I got an iPod and then later used streaming services like Rdio (RIP) and Spotify. I'd fallen out of the practice over the last few as I listened to more podcasts and less music. But in the last six months or so, I've found myself returning to music. And, in turn, back to making playlists.
+I've been playlists for as long as I can remember — back when we called them *mixtapes* and we recorded them on cassette — but I really got into it fifteen years ago or so when we got our first computer with a CD burner and I'd compile my favorite songs and share them with friends. My playlist making only go more obsessive when I got an iPod and then later used streaming services like Rdio (RIP) and Spotify. I'd fallen out of the practice over the last few as I listened to more podcasts and less music. But in the last six months or so, I've found myself returning to music. And, in turn, back to making playlists.[^2]
+
 
 My musical interests are eccentric and diverse and I have formula I've developed to pull these songs together. There's an arc I'm after — usually starting slow, often with an instrumental (or instrumental-driven song). The tracks build, often culminating towards the middle of the playlist with the loudest and most unusual songs before slowing down again. I like including a few ambient tracks to serve as interludes and look for transitions between the beginnings and ends of each song.
 
@@ -44,3 +45,5 @@ This one's been on repeat for the last few weeks. It captures, I hope, the feeli
 * * *
 
 [^1]: The cover is inspired by Yorgos Lanthimos's *The Favourite* — a movie whose cinematography completely captivated me. The photo is one I took almost a year ago here in the neighborhood and the typography is a shameless ripoff of Vasilis Marmatakis's typographic interludes throughout that film.
+
+[^2]: [Here's an archive of all my previous playlists](http://jarrettfuller.com/playlists). I should give this page a refresh.
