@@ -12,7 +12,7 @@ hero: '/images/winter19_playlist.jpg'
 <iframe src="https://open.spotify.com/embed/user/jarrettfuller/playlist/1WPRCafuw1X5MC1tCmOdnf" width="100%" height="480" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </figure>
 
-It's a snow day. Classes are cancelled and I thought and I've got a new playlist I've been listening to for the last few weeks. It's called *We Can Hear When We Are Hollow*[^1]. You can listen to it on [Spotify](https://open.spotify.com/user/jarrettfuller/playlist/1WPRCafuw1X5MC1tCmOdnf?si=ij-boqrQSU2Fam8yMV_FWQ)
+It's a snow day. Classes are cancelled and I've got a new playlist I've been listening to for the last few weeks that I thought I'd share. It's called *We Can Hear When We Are Hollow*[^1]. You can listen to it on [Spotify](https://open.spotify.com/user/jarrettfuller/playlist/1WPRCafuw1X5MC1tCmOdnf?si=ij-boqrQSU2Fam8yMV_FWQ)
 
 Here's the tracklisting:
 
