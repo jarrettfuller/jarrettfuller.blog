@@ -28,7 +28,7 @@ If I teach the class a third time (I hope I do, I had a blast with it this semes
 * * *
 
 ### Writing About Design
-* [*Writing About Architecture*](https://amzn.to/2YvlTdm)(Introduction) - Alexandra Lange
+* [*Writing About Architecture*](https://amzn.to/2YvlTdm) (Introduction) - Alexandra Lange
 * [*What Has Writing Got to do with Design?*](http://www.eyemagazine.com/opinion/article/what-has-writing-got-to-do-with-design) - Ann Burdick
 * [*All Buildings Are Interesting*](https://mcmansionhell.com/post/171906495491/looking-around-all-buildings-are-interesting) - Kate Wagner
 * [*What is Thing Called Graphic Design Criticism?*](http://www.eyemagazine.com/feature/article/what-is-this-thing-called-graphic-design-criticism) - Michael Rock and Rick Poynor
@@ -62,7 +62,7 @@ If I teach the class a third time (I hope I do, I had a blast with it this semes
 
 ### Visuals
 * [*The Medium is the Massage*](https://readings.design/PDF/the-medium-is-the-massage.pdf) - Marshall McLuhan
-* [*Can Do*](https://kalman.blogs.nytimes.com/2009/07/30/can-do/) - Maira Kalyan
+* [*Can Do*](https://kalman.blogs.nytimes.com/2009/07/30/can-do/) - Maira Kalman
 
 ### Poetry
 * [*Sweethearts*](https://www.sweetheartsweetheart.com) - Emmett Williams
