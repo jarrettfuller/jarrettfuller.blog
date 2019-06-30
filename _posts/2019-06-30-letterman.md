@@ -5,7 +5,7 @@ categories:
 - Culture
 description: "Thinking about the evolution of David Letterman."
 hero: '/images/letterman.jpg'
-herocap:
+herocap: 'With Barack Obama from the first episode of My Next Guest Needs No Introduction. Image via Variety.'
 ---
 
 “How’d you like being in jail?” he suddenly asks after a few softball questions about spending time in New York and which city she likes better. The audience laughs. She looks uncomfortable. “That’s just awful” he smirks. She tries to pivot. He digs in: “How was the food?” “Three meals a day?” “What did you do to keep your energy up?” “Do you know what you did?” [The guest was Paris Hilton](https://www.youtube.com/watch?v=bAT_nY0n9P0&t), fresh out of spending time in jail for driving with an invalid license in 2007, a guest on the *Late Show with David Letterman*, there to promote a new fragrance. Hilton uncomfortable, Letterman is clearly enjoying himself, laughing as he asks the next question. “It was a part of my life and I don’t want to talk about it anymore,” she finally says. “See, that’s where we are different. It’s all I want to talk about,” he quips, continuing his line of questions.
