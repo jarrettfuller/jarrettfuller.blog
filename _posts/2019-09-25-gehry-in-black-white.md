@@ -1,5 +1,5 @@
 ---
-layout: photo
+layout: post
 title: Gehry in Black and White
 categories:
 - Architecture
