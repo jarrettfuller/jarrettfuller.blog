@@ -326,6 +326,12 @@ article ol {
 .pagination a:hover {
     border-bottom: 0px;
 }
+.photo-post {
+    width: 100%;
+    max-width: 1800px;
+    margin-left: -35%;
+      padding: 50px 50px 50px 50px;
+}
 /*----------- IMAGES --------------*/
 figure {
   width: 143%;
@@ -389,6 +395,7 @@ figcaption a:hover {
 article img {
   width: 100%;
 }
+
 
 /*----------- RESPONSIVE VIDEO --------------*/
 .responsive-container {
