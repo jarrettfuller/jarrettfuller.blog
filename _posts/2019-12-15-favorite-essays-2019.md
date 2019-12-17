@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: photopost
 title: Favorite Essays of 2019
 categories:
 - Culture
