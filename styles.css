@@ -276,9 +276,23 @@ article hr {
   border: 0.5px solid rgba(0, 0, 0, 0.2);
 }
 article ol {
-    list-style-position: outside;
+   list-style-position: outside;
     padding-left: 35px;
     padding-bottom: 15px;
+}
+article ul {
+        list-style-position: outside;
+    padding-left: 25px;
+    padding-bottom: 15px;
+        list-style: disc;
+}
+article li {
+/*
+    list-style: disc;
+    padding-bottom: 15px;
+*/
+    list-style-position: outside;
+    padding-right: 15px;
 }
 .footnote {
   font-family: 'Karla', Helvetica, Arial, sans-serif;
@@ -429,6 +443,23 @@ footer {
 .right {
   width: 50%;
   margin-left: 25px;
+}
+input[type="email"] {
+    padding: 7px;
+    font-family: Karla;
+    font-size: 16px;
+    width: 60%;
+}
+input[type="submit"] {
+    background-color: lightgrey;
+    border-radius: 3px;
+    padding: 9px;
+    padding-left: 15px;
+    padding-right: 10px;
+    font-family: Karla;
+    font-size: 16px;
+    box-shadow: none;
+    border: none;
 }
 /*-----------------------------------
 TABLET
