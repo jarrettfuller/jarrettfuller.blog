@@ -6,7 +6,7 @@ categories:
 - Work
 description: "Did you know I have a monthly-ish newsletter? Here's the recent issue."
 hero: 'https://buttondown.s3.us-west-2.amazonaws.com/images/f656ffe3-a7da-4715-9fad-7a7a94b1f123.jpeg'
-herocap: 'Brooklyn, NY. March 2020. © Jarrett Fuller'
+herocap: 'Brooklyn, NY. October 2019. © Jarrett Fuller'
 ---
 
 *In addition to this blog, I send out a monthly-ish newsletter that mixes updates on my work, photography, half-formed thoughts, cultural recommendations, and whatever else is on my mind. It's more casual than the blog but more thoughtful than social media. It's the best way to keep up with what I'm working on. I decided to syndicate the most recent issue below. If you like it, would you consider [signing up](https://buttondown.email/jarrettfuller)? You can also [read the archives](https://buttondown.email/jarrettfuller/archive) if you want know more.*
