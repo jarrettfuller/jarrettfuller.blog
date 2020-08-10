@@ -1,0 +1,40 @@
+---
+layout: post
+title: The End of the Designer-Genius
+categories:
+- Design
+description: "The myth of the sole creative genius has allowed bad behavior to persist for too long."
+hero:
+---
+
+
+Here’s Tejal Rao, a *New York Times*’ restaurant critic, [on the myth of the sole-creative genius in the kitchen](https://www.nytimes.com/2020/08/04/dining/chef-restaurant-culture.html):
+
+> I don’t need to describe the chef to you. He is a man, probably. A genius, definitely. Let’s say this genius is volatile, meticulous, impenetrable, charming, camera-ready. He doesn’t just manage the staff behind a great restaurant. He is the great restaurant.
+
+> For decades, the chef has been cast as the star at the center of the kitchen. In the same way the auteur theory in film frames the director as the author of a movie’s creative vision, the chef has been considered entirely responsible for the restaurant’s success. Everyone else — line cooks, servers, dishwashers, even diners — is background, there to support that vision.
+
+For our purposes, let’s replace ‘chef’ with ‘designer’. The whole article would still work. The design industry, too, frequently uses the narrative as the singular genius to describe our profession and the work that comes out of it. Design history is littered with names — almost all of them white and male — that we’re told we should know. These people came in and, out of nowhere, invented a new style or changed the way design was made. The subliminal message here is that this is what being a designer means, this is how we are supposed to work. “That fiction props up much coverage of architecture in the mainstream media—buildings aren’t stars, but their makers can be,” writes Alexandra Lange in [a 2018 piece for *Curbed*](https://www.nytimes.com/2020/08/04/dining/chef-restaurant-culture.html) on the parallels to architecture, “It also reinforces the hierarchy that makes hundreds of people dependent on a single individual to speak for their work and sell it to the world.”
+
+This is not — and never was — how design operates. Design, by its very nature, is a collaborative activity. At its core, it’s a collaboration between designer and client. The design process is a series of negotiations and discussions between designer and printer, designer and developer, designer and manufacturer. And this doesn’t even include collaboration within a team: between art directors and designers, senior designers and junior designers, designers and project managers. Any big design project you see featured in any design publication today was touched by a team of people.
+
+Michael Rock wrote about this ten years ago in his essay [*The Problem of Provenance*](https://2x4.org/ideas/2012/the-problem-of-provenance/):
+
+> History belongs to the writer; so too the history of graphic design. The challenge for the design historian is to assemble bits and pieces of data — traditional primary and secondary sources as well as visual material — into coherent narrative. The state of graphic-design history is dire because the subjects themselves have a vested interest in perpetuating a closed narrative about their own ideas — designers want to build and maintain their own self-authored, and self-serving, myths — and design journalists are often unwilling to question the simple stories their subjects feed them. So both the primary and secondary are compromised. But the real problem is that the origins of a visual idea are blurry. In most cases, the attribution of a discrete idea to a single designer is simply a shorthand way to meld all the various threads of influence into a single unified point of inspiration.
+
+> The story of mysterious aesthetic inspiration gushing forth from fertile imaginations, while romantic, is almost always miscast. Graphic design is mediated: it works because it is attached to the surrounding culture. The creative-genius story is only viable if the definition of a design object is whittled down to the point that it is no longer rich or interesting or if the designer is inflated to the cult status he or she covets.
+
+He goes on to use the studio’s work on environmental graphics at at the Illinois Institute of Technology campus. At a museum exhibition of the studio’s work, the label for the graphics list 2x4’s three partners, a description Rock finds reductive. A lecture from another designer describes the origins of the project, also reductive. “Design in a collaborative studio environment is never a solo achievement but is made up of countless individual acts of creativity,” he continues, “Over the course of the six years we worked on the IIT project, more than a dozen different designers participated, not to mention a large and dynamic team of architects from OMA, and landscape designers from Inside Outside.”[^1]
+
+He’s not wrong. But he’s also not practicing what he’s preached. The only names available on 2x4’s current website are those of the three partners. The project pages in the portfolio give no indication of the people who worked on them. This, unfortunately, is common practice on studio websites. Pentagram, perhaps the largest and most popular design studio, also only lists the names of the partners on their website. I was able to find a few projects, buried at the bottom, that list a team but it requires a few clicks and a lot of scrolling to get to it.
+
+As Rao notes in her NYT piece, many of these ‘geniuses’ have since fallen, credibly accused of sexual misconduct, and verbal and physical abuse. Here, the comparisons to architecture are again appropriate. The narrative of the architecture student pulling all-nighters is legendary, preparing aspiring practitioners for a profession of more of the same, years of work before they can be credited for anything built. (I’ve sensed a bit of envy in some design departments, looking longingly at the demand of architecture schools and wanting a bit for ourselves. The glorification of all-nights in design school should also end, but that’s another essay.) Last year the starchitect Richard Meier left his eponymous firm after being accused of sexual abuse.
+
+It hasn’t hit graphic designers like that, as far as I know, but working conditions can surely be called into question, especially when the subconscious message to young graduates is that you get to work with so-and-so famous designer or be able to put Studio X on your resume. An [anonymous Google Sheet](https://docs.google.com/spreadsheets/d/1aFoSJr1qWBH3nWMeoEdFP4her8NvI7RZf6skyQmOAsU/edit#gid=257041397) that showed salaries of designers around the world make this clear: a junior designer at Pentagram in New York, for example, barely makes a living wage.
+
+There are hints of change, certainly. Most design studios pay their interns, finally, and many newer studios are structured collectively but there is more work to be done. Let’s stop treating the client as someone who needs to be pleased and as another collaborator, for starters. Let’s call out abuse, inequality, and hero-worship when we see it. Let’s resist the narrative of the sole genius and acknowledge the complexity of any design project. In other words, let’s spend more time writing [about projects and ideas](https://eyeondesign.aiga.org/lets-teach-a-history-of-ideas-not-the-history-of-individuals/), than people.[^2] If designers are going to continue to give lip-service to ideals around community and collaboration, social good and big ideas about ‘changing the world’, how about we start with ourselves.
+
+----
+[^1]: OMA, Rem Koolhaas’s firm, interestedly is more egalitarian in its credit. Each project lists the project team on their website and in recent years, they’ve started naming the partner-in-charge first (as opposed to OMA) when talking about a building, perhaps in an attempt to begin planning for a post-Koolhaas OMA.
+
+[^2]: I realize the hypocrisy here as I host a podcast where each episode is a longform interview with a single designer but I think these conversations are about complexity and not oversimplifying design.
