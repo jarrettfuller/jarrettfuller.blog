@@ -607,7 +607,7 @@ figure .left {
 }
 figure .right {
   width: 100%;
-  padding-right: 0px;
+  padding-left: 0px;
   float: none;
     margin: 0px;
 }
