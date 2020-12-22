@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Long Live the Web!'
+categories:
+- Design
+- Technology
+description: "Why I still just love HTML and CSS"
+hero: '/images/180313_web.png'
+---
+
+It's that time of year where many of my students start asking for advice about summer internships. We talk about their work and the kinds of place that might be interesting to them, we talk about writing resumes and cover letters and how to stand out, and we look at their websites. Over the last year or so, I've noticed more and more students — in both undergraduate and graduate programs — using templates and site builders for their personal portfolios: Squarespace, Wix, Weebly, sometimes even just a URL that redirects to a Behance page. A lot has changed since the time I was an undergraduate looking for internships. The school I went to was still focused on _hard copy_ portfolios. We bought expensive paper and wood-veneered covers that we would supposedly lug from studio to studio to show our work. But, of course, none of us ever did that. This was the late-aughts and by then, we all had websites. Websites we hand-coded with HTML and CSS — a series of static pages we had linked together. I remember a debate my senior year — when [Indexhibit](https://www.indexhibit.org) and [Cargo Collective](http://cargocollective.com) were popular — whether it was okay to use these services for our sites. We all agreed we should build our own. But not anymore. Students aren't interested in the web anymore.
+
+
+As I was reflecting over the recent work I've done through my independent practice, I noticed how much of my work is still web related. As a student, I was interested in print and editorial design — I wanted to work on magazines and books and posters, But upon graduation, my career shifted quickly into digital design: designing and building websites. And I still _really_ like it. I still find HTML and CSS fascinating. I can still lose a night's sleep — _in the zone_ — working with the web. Ten years later, I still feel like I'm just scratching the surface of what I can do in the browser; there's always more to learn, new technologies to try, new modes of working. Despite largely growing up on the web, it still feels like a new frontier.
+
+But when I look at the work my students — who, on average, are ten years younger than I am — are doing, and the type of work they want to do, I see little interest in (or consideration of) web design. I hear them complain about coding classes and when they talk about their own ambitions, they talk about Google, about Facebook, about Silicon Valley. They still see a split between print and digital. Some still want to work with printed matter — with books and posters and magazines — but 'digital design' is products, apps, services. Mobile apps have usurped interactive design. No one wants to _just_ make websites anymore. In a class I'm teaching right now, students are working on large-scale branding projects. In applying their brand to a variety of mediums, only one created a website.
+
+Maybe it's generational. Mobile apps didn't even exist when I started college. The app store opened my second year year of undergrad, the iPad came out my senior year. When I was their age, web and interactive classes still weren't required courses. The traditionally-trained graphic designers who taught me still weren't sure what to do with "web design". The university I went to offered two web design classes — one was an introduction to HTML and CSS (using Dreamweaver) and the second added some entry level PHP[^1]. They were optional. Some of my classmates graduated without ever taking a course in web design. The debates around whether designers should learn to code feel terrible archaic.[^2] These types of classes are now standard in undergraduate design programs and 'product design' or 'mobile app design' have taken the place where web classes were when I was in school. We don't know what to do with them or the best way to teach an ever-growing and ever-changing industry.They're mostly optional courses. But it's also endemic of the industry. I've sat in too many meetings with marketing or sales teams who wanted to create an app. (The solution to their request, it often turned out, was to build a website.)
+
+I'll be upfront: I, personally, have little interest in product design/mobile design/app design/whatever we're calling it these days in my own practice. But I do see the value in teaching the next generation of designers how to think about it and how to get out in front of it. I think we should be spending more time teaching user experience, mobile interfaces, and cross-platform classes[^3]. Yet I still wonder if we're short-changing the browser, the power of the web. I'm curious why students aren't interested in web design? Is there a way we can reclaim some of that excitement? The web can still be a fascinating canvas. I don't think we're done exploring it, experimenting with it, breaking it and rebuilding it. Web design can be a platform to explore ideas around open source technologies, infinite canvases, accessibility, multi-screen design, cross-platform design, and interactivity. Websites still excite me. Long live the web!
+
+* * *
+
+
+[^1]: I also took a Flash class my sophomore year, which I obviously never got to use beyond that class.
+
+[^2]: Did we ever find an answer? Does it matter? Basic HTML and CSS classes appear to be taught in most undergraduate design programs. Yet, almost ironically, I've only seen product or app design is taught the way web design used to be taught: .psd or Sketch mockups that would be handed off to the developer.
+
+[^3]: While at MICA, I taught [a course on user experience](http://jarrettfuller.com/projects/dux) that centered on app design and mobile interfaces and it's still one of the best classes I ever taught.
