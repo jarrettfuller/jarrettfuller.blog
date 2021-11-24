@@ -231,9 +231,9 @@ font-family: 'Merriweather', Georgia, Times, serif;
     width: 75%;
 }
 article {
-  font-family: 'Merriweather', Georgia, Times, serif;
-  font-size: 18px;
-  line-height: 1.7em;
+  font-family: 'Plantin', Georgia, Times, serif;
+  font-size: 22px;
+  line-height: 1.5em;
       width: 70%;
 }
 h2 {
@@ -256,7 +256,7 @@ h4 {
   font-size: 20px;
 }
 article a {
-  font-family: 'Merriweather', Georgia, Times, serif;
+  font-family: 'Plantin', Georgia, Times, serif;
   border-bottom: 2px #ff0000 solid;
 }
 article a:hover {
