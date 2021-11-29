@@ -18,20 +18,20 @@ I’ve always found Miranda’s interested in legacy fascinating. His stories ar
 
 The core of Hamilton, in my view, is this verse from Eliza, his new wife, after she tells Alexander that she is pregnant:
 
-> We don’t need a legacy
-> We don’t need money
-> If I could grant you peace of mind
+> We don’t need a legacy <br />
+> We don’t need money <br />
+> If I could grant you peace of mind<br />
 > If you could let me inside your heart…
 
-> Oh, let me be a part of the narrative
-> In the story they will write someday
-> Let this moment be the first chapter:
-> Where you decide to stay
-> And I could be enough
-> And we could be enough
+> Oh, let me be a part of the narrative<br />
+> In the story they will write someday<br />
+> Let this moment be the first chapter:<br />
+> Where you decide to stay<br />
+> And I could be enough<br />
+> And we could be enough<br />
 > That would be enough
 
-This is Hamilton’s core tension and these lines would fit right at home inside *tick, tick…Boom!* as well. Miranda adds a love story to the film with Susan, Larson’s girlfriend, who gets a job upstate (Another parallel: Hamilton moves uptown!) and wants Jonathan to come with her. He keeps putting off the conversation, putting the work ahead, trying to stage his show. The opening lines of *tick, tick…boom!* are about the dread of turning thirty while still unable to create art of value: *Stop the clock / Take time out / Time to regroup / Before you lose the bout*. I’m again reminded of a Hamilton: *Why do you write like you’re running out of time?*
+This is Hamilton’s core tension and these lines would fit right at home inside *tick, tick…Boom!* as well. Miranda expands the love story in the film with Susan, Larson’s girlfriend, who gets a job upstate (Another parallel: Hamilton moves uptown!) and wants Jonathan to come with her. He keeps putting off the conversation, putting the work ahead, trying to stage his show. The opening lines of *tick, tick…boom!* are about the dread of turning thirty while still unable to create art of value: *Stop the clock / Take time out / Time to regroup / Before you lose the bout*. I’m again reminded of a Hamilton: *Why do you write like you’re running out of time?*
 
 Miranda’s characters are ambitious, hard-working, creative, and sometimes myopic and Miranda, too, is clearly ambitious. And his work is laced with this rush to produce. His first show, *In the Heights*, debuted when he was only 27. His output has only increased since *Hamilton*, writing songs for Disney movies, producing and acting, and other film and music work. Perhaps Miranda is thinking about his legacy too. It’s a narrative I know all too well and is, perhaps, the reason I find Miranda’s body of work so compelling.
 
