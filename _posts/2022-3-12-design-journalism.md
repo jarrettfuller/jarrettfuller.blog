@@ -6,7 +6,7 @@ categories:
 - Design
 - Architecture
 - Writing
-description: "Reading Herbert Muschamp's essay in 2022 is like reading history being written"
+description: "Reading Herbert Muschamp's essays in 2022 is like reading history being written."
 
 ---
 
