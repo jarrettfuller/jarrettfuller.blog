@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What if design is problem solving?
+title: What if design isn’t problem solving?
 categories:
 - Design
 description: "A few thoughts on design thinking, cultural invention, and why corporate America broke up with design."
