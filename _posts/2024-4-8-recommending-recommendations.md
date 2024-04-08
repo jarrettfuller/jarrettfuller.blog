@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Recommending Recommendations"
+categories:
+- Culture
+description: "A love letter to two of my favorite YouTube channels."
+
+---
+
+Our content is perpetually served to us through algorithms. I get a lot of my news from Apple News which learns what I like to read and sends me more of it. I listen to music on Spotify that makes playlists for me each day based on what I'm listening to. I watch movies and television shows on all the platforms, each of which offers its own "You Might Also Like" section. The videos I watch on YouTube recommend more videos like the ones I've been watching. Despite being plugged into these platforms for a decade or more[^1], I rarely find the algorithms' recommendations offer me media that truly enriches to my life. In the short term, sure, it might entertain me for an hour and half. But when I look at my favorite media of the last few years: the books that mean the most to me, the bands I return to again and again, the movies and television I now count among my favorites, none of them came from the algorithms.
+
+So where'd they come from? The short answer, of course, is people[^2]. Media is a topic among my friends, family, and colleagues and recommendations from them have pointed me bands now I love, television I've watched multiple times, and movies I can't get out of my head. But other recommendations come from my own research, a trail of content consumption where one thing leads to the next. I've found my more invested in consuming something I've read about before, whether that's a review about the thing or just an essay that happens to reference a particular cultural touchstone. So much of what I consume comes from these lists I make for myself, picking up crumbs of references to return to later.
+
+When I was a teenager — who took discovering new music and films very seriously and didn't have people around to recommend things to me — the way I found new media was from looking at the influences and recommendations from the artists I already loved. Who did the bands I like listen to? What films were my favorite filmmakers inspired by? What were my favorite writers' favorite books? This is how I got into Andrei Tarkovsky's films or R.E.M. or Annie Dillard. 
+
+I was thinking about all this last night watching yet another edition to [The Criterion Collection's Closet Picks YouTube series](https://www.youtube.com/@criterioncollection/videos). In each video, never more than ten minutes long, a filmmaker, actor, musician, or writer stands inside a closet filled with The Criterion Collection's inventory. A totebag in hand, they go through the Blu-rays and box sets, pulling out the films that mean the most to them. I watch all of these. Sometimes I just like hearing someone talk about a movie I'd seen before in a new way and other times, I'm introduced to new films or given an entry point into something I've always wanted to watch. While watching Ben Gibbard's picks I found myself adding them all to my Criterion Channel watchlist — I'd always wanted to watch Kelly Reichardt's films, for example, but never had a way in: his description of *Old Joy* gave me what I needed to finally start watching. I'll probably watch it tonight. In many ways, this is me discovering new content the way I always have.
+
+I feel the same way about Amoeba Music's [What's In My Bag](https://www.youtube.com/@amoeba/playlists) YouTube series, which I've watched off and on for the better part of a decade. It's the same concept: a musician walks around Amoeba Records in LA and talks about the records that influenced them. I've been listening to Megafaun for ten years because John Hodgman talked about them in a video. I got obsessed with Roberta Flack after Matt Berninger of The National talked about her, helping me both understand her music and *his* music better.
+
+This is the power, I think, of recommendations like this: they are contextual. They expose the links, the influences, the personal stories behind the media. The algorithms, right now, can't do that — they are just a stream of new things to consume. But when the recommendations come from *somewhere*, from *someone*, we have a specific entry point that gives us a deeper connection to both the media and the person. In his book, *How To Talk About Books You Haven't Read*, Pierre Bayard writes that its the connections between books that matter just as much as the individual books themselves: how do they relate to each other, what influenced what, who was reading who. I think this is why the recommendations from Criterion or Amoeba stick for me in a way the algorithms don't: they are creating a landscape of influences, a network of inspirations. 
+
+Or perhaps this is just a longwinded way for me to recommend two YouTube channels that have meant a lot to me and I want to share them with you. 
+
+* * *
+[^1]: I've used Netflix for close to fifteen years. I've paid for Amazon Prime for over ten; Hulu, HBO, and Spotify all around a decade, give or take.
+
+[^2]: Another answer is brands. A record label, a movie studio, a television network build up brand reputation that may or may not make me more inclined to sample something new. I'm more likely to try a new show from HBO or FX than Amazon. I'll watch a new A24 film no matter what but I'm skeptical of anything Netflix produced.
