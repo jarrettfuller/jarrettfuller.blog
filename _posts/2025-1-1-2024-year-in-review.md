@@ -9,7 +9,7 @@ hero: '/images/250101_year-in-review.jpg'
 herocap: 'From our Spring trip to Disney, © March 2024 Jarrett Fuller.'
 ---
 
-The pace of 2024 year felt different. A big reason I took a full-time teaching job a few years ago was to try to level-up my work. I felt comfortable in the space I was in and wanted to work on bigger projects. An academic job, I thought, might give me the space for that. Now in my fourth year at NC State, I finally accomplished some of that. My output this year was less because one, large project seemed to consume my time. 
+The pace of 2024 felt different. A big reason I took a full-time teaching job a few years ago was to try to level-up my work. I felt comfortable in the space I was in and wanted to work on bigger projects. An academic job, I thought, might give me the space for that. Now in my fourth year at NC State, I finally accomplished some of that. My output this year was less because one, large project seemed to consume my time. 
 
 At the beginning of the year, I sold a book proposal I'd been thinking about for a few years and then spent most of this year working on it. I submitted my completed first draft at the beginning December. I'm not ready to talk about it yet but I know 2025 will be spent editing, designing, and getting the book ready for publishing. This was, by far, the hardest thing I ever worked on: it took longer, was more intellectually challenging, and was generally so much more work than I expected. Like I said, it's a subject I've been thinking about for years and can't wait to share more about it soon.
 
