@@ -24,7 +24,7 @@ Sam Anderson continues to be one of my favorite essayists working today and I es
 
 ***
 
-The cultural experience that stuck with me the deepest this year was season two of Nathan Fielder's excellent HBO series, *The Rehearsal*. This season, which focuses on commercial airline pilots is unlike anything I've ever seen and changed the way I experienced a series of flight I took in the Fall. The best writing about the show, for me, came from Alexandra Tanner in *The Point*, in an essay called []"An Experience for Me."](https://thepointmag.com/examined-life/an-experience-for-me/)
+The cultural experience that stuck with me the deepest this year was season two of Nathan Fielder's excellent HBO series, *The Rehearsal*. This season, which focuses on commercial airline pilots is unlike anything I've ever seen and changed the way I experienced a series of flight I took in the Fall. The best writing about the show, for me, came from Alexandra Tanner in *The Point*, in an essay called ["An Experience for Me."](https://thepointmag.com/examined-life/an-experience-for-me/)
 
 Brian Phillips, a writer for the Ringer I always love, also wrote a smart take called ["Flying in the Dark with Nathan Fielder"](https://www.theringer.com/2025/05/25/tv/the-rehearsal-season-2-finale-nathan-fielder). (One more from Brian, [his review of the latest season of The Bear, a show I find immensely frustrating, explained perfectly why I keep wanting more from it](https://www.theringer.com/2025/06/23/the-bear/the-bear-new-season-4-episodes-horizontal-vertical). His notion of stories expanding vertically or horizontally is a metaphor I've used often since.)
 
