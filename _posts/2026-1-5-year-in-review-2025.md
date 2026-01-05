@@ -6,7 +6,7 @@ categories:
 - Work
 description: "A look back on my work from 2025."
 hero: 'https://jarrettfuller.photo/images/DSCF9773.jpg'
-herocap: 'Martha's Vineyard, MA; July 2025'
+herocap: 'Martha’s Vineyard, MA; July 2025'
 ---
 
 I think we will look back on 2025 as a year when things changed. Politically, socially, technologically, culturally, it feels like 2025 was a transition year; an old thing is ending and some new thing is beginning. This is why [Vinson Cunningham's essay in the *New Yorker*, published on Christmas day](https://www.newyorker.com/culture/2025-in-review/what-kind-of-new-world-is-being-born), resonated with me so much. You should read it. Globally, 2025 feels like a transition but personally, it did too. I couldn't shake the sense all year that my work was changing. That it needed to change. I felt, and continue to feel, like the work I've been doing the last decade or so is wrapping up in some sense and some new thing is emerging. I don't know what that new thing is yet; if it's big or small, a slight adjustment or a radical shift. But I sense change.
