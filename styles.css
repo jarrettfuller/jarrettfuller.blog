@@ -319,8 +319,16 @@ article li {
   border-bottom: 1px #ff0000 solid;
   color: rgba(0, 0, 0, 0.5);
 }
-.notes a:hover {
+.footnotes a:hover {
   color: red;
+}
+code {
+  font-size: .7em;
+  font-family: monospace;
+  padding: 3px;
+  border: 1px grey;
+  border-radius: 5px;
+  background-color: #ebebeb;
 }
 .pagination {
     border-top: 1px #ff0000 solid;
