@@ -3,8 +3,6 @@ layout: post
 title: "A Secret, Invisible Grid"
 categories:
 - Design
-description: "An unexpected definition of graphic design popped up in a novel."
-full_post_on_index: true
 ---
 
 From Larissa Pham's delightful new novel, [*Discipline*](https://amzn.to/3PjN7DD):

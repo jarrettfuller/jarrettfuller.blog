@@ -1,0 +1,119 @@
+/*----------- TEST INDEX -------------*/
+
+.object {
+  padding: 50px 50px 50px 50px;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  max-width: 1800px;
+/*    margin: auto;*/
+	width: auto;
+}
+.blog-list {
+  padding: 0px 50px 50px 50px;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+/*    margin: auto;*/
+	width: auto;
+	border-top: 1px #ff0000 solid;
+}
+.blog-list a {
+  display: contents;
+}
+.blog-list img {
+	width:auto;
+	width: 25%;
+	height:25%;
+	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+	filter: grayscale(100%);
+	opacity: .7;
+}
+.blog-list:hover img {
+	 -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+	filter: grayscale(0%);
+	opacity: 1;
+}
+.blog-list .post-title {
+	width: 50%;
+	padding-right: 25px;
+}
+.blog-list .post-title h2 {
+	font-size: 36px;
+	padding: 15px 50px 5px 0px;
+	margin-bottom: 0px;
+}
+.blog-list .post-title h3 {
+font-family: 'Merriweather', Georgia, Times, serif;
+  font-size: 18px;
+	opacity: .6;
+  line-height: 1.6em;
+	padding-top: 0px;
+	font-style: italic;
+	font-weight: normal;
+}
+.blog-list .post-title p {
+  font-family: 'Plantin', Georgia, Times, serif;
+font-size: 22px;
+line-height: 1.5em;
+padding-right: 25px;
+}
+.blog-list .post-title p a {
+  font-family: 'Plantin', Georgia, Times, serif;
+  border-bottom: 2px #ff0000 solid;
+}
+.blog-list .post-title p a:hover {
+  color: red;
+  border-bottom: 2px #ff0000 solid
+}
+.blog-list .post-title blockquote {
+  padding-left: 2em;
+  border-left: 1px #ff0000 solid;
+  font-style: italic;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.blog-list .post-title p hr {
+  margin: 40px auto;
+  max-width: 40%;
+  border: 0.5px solid rgba(0, 0, 0, 0.2);
+}
+.blog-list .post-title ol {
+   list-style-position: outside;
+	padding-left: 35px;
+	padding-bottom: 15px;
+}
+.blog-list .post-title ul {
+		list-style-position: outside;
+	padding-left: 25px;
+	padding-bottom: 15px;
+		list-style: disc;
+}
+.blog-list .post-title li {
+	list-style-position: outside;
+	padding-right: 15px;
+}
+.blog-list .post-title .link {
+  font-family: Karla;
+}
+.blog-list .date {
+	padding-top: 15px;
+}
+.project {
+  width: 50%;
+  margin-right: 20px;
+  box-sizing: border-box;
+  padding-right: 30px;
+}
+.date {
+  width: 25%;
+}
+.categories {
+	padding-top: 15px;
+}
+.categories li {
+	list-style: none;
+	opacity: .5;
+}

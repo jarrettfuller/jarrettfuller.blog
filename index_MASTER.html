@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Notes from the Studio
+hero: '/images/hero.jpg'
 ---
 <body>
 
@@ -13,31 +14,20 @@ title: Notes from the Studio
     <main class="preview">
 
       <div class="blog-list-container" id="all-container">
-
-          {% for post in site.posts limit:20 %}
-          
+              
+          {% for post in paginator.posts %}
+                <a href="{{ site.baseurl }}{{ post.url }}">
         <div class="blog-list">
             <div class="date">{{ post.date | date: "%m/%d/%Y" }}</div>
             <div class="post-title">
-              <a href="{{ site.baseurl }}{{ post.url }}">
-            <h2>{{ post.title }}</h2></a>
-            
-            {% if post.description %}
-            <h3>{{ post.description }}</h3>
-            {% else %}
-            <p>{{ post.content }}</p>
-            {% endif %}
-            
-          {% if post.link %}
-            <p><a href="{{ post.link }}" class="link">Visit Link →</h3>
-            {% endif %}
+            <h2>{{ post.title }}</h2>
+            <p>{{ post.description }}</p>              
+              
             </div>
             {% if post.hero %}
-            <a href="{{ site.baseurl }}{{ post.url }}">
             <img src="{{post.hero}}">
-            </a>
              {% endif %}
-                    </div>
+                    </div></a>
           {% endfor %}
       </div>
 
