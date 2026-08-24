@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Architecture is morphing into a pan-disciplinary practice"
+title: "“Architecture is morphing into a pan-disciplinary practice”"
 categories:
 - Architecture
 description: "Why are architects more comfortable leaving traditional practice than graphic designers?"
